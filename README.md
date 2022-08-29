@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a React trivia game.
+- 🔭 I’m currently working on a MEAN crud app... details TBD.
 
 - 🌱 I’m currently learning Node, MongoDB, Express, Angular and React.
 
