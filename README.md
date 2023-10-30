@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: email or linkedin.
 
-- 📘 I'm currently re-reading: The Great Gatsby
+- 📘 I'm currently reading: The Convenant of Water by Abraham Verghese
 
 - ⚡ Fun fact: My favorite food is peanut butter 😀
 
